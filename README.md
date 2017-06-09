@@ -1,9 +1,7 @@
-# Copyright (c) 2014-2017, racaljk.
-# 
-# Last updated: 2017-05-09
 
-# This work is licensed under a CC BY-NC-SA 4.0 International License.
-# https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
 
 # Localhost (DO NOT REMOVE)
 127.0.0.1	localhost
